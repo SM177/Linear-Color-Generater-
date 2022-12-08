@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+    font-family: 'Unbounded', cursive;
+    background-image:
+        linear-gradient(to right, blue, #2bd);
+}
+
+
+#newGradient{
+    font-size: 40px;
+    font-weight:800;
+
+}
+
+#colorA,#colorB,.inarrow {
+    font-size: 60px;
+}
+
